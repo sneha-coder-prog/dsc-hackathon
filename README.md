@@ -22,7 +22,7 @@ Normalize image pixel values
 
 Resize all images to a common shape (e.g., 224x224)
 
-🛠Tools & Libraries Used
+Tools & Libraries Used
 Python
 
 Pandas
